@@ -1,5 +1,4 @@
 # kata Tennis
-This short and simple Kata should be performed using Test Driven Development (TDD). 
 It is about implementing a simple tennis game. The scoring system is rather simple:
   1) Each player can have either of these points in one game 0 15 30 40
   2) If you have 40 and you win the ball you win the game, however there are special rules.
@@ -13,7 +12,7 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
   3) If at least three points have been scored by each player, and the scores are equal, the score is “deuce”.
   4) If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is        “advantage” for the player in the lead.
   
-    ## Getting Started
+# Getting Started
   
   In order to run and deploy this application user needs follow below steps-
   
