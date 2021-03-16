@@ -17,7 +17,7 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
   In order to run and deploy this application user needs follow below steps-
   
     1) Clone git repostitory in some local folder using below command run on cmder of bash git command prompt.
-         git pull https://github.com/mouradbbr/katatennis.git
+         git clone https://github.com/mouradbbr/katatennis.git
     2) Open STS and import project as exiting maven project in STS, Setting up STS steps given in installation section.
     3) Right click imported project and go to maven -> update project.
     4) Right click again imported project and go to Run as -> maven clean to clean project.
